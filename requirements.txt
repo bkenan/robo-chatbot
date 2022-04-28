@@ -1,0 +1,8 @@
+transformers==3.0.0
+numpy
+pandas
+torch
+sklearn
+regex
+Flask
+openpyxl
