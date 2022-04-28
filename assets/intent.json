@@ -1,0 +1,52 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "responses": [
+          "Hi! You can ask me your questions!",
+          "Hello, thanks for joining",
+          "Hello, how can I help you today?",
+          "Hi, can I help?",
+          "Hi there, feel free to ask me your questions!",
+          "Hi! We are happy to assist you!"
+        ]
+      },
+      {
+        "tag": "bye",
+        "responses": [
+          "We'll be happy to assist you again",
+          "Goodbye!",
+          "Bye! It was our pleasure to assist you!"
+        ]
+      },
+    
+      {
+        "tag": "investments",
+        "responses": [
+          "The list of your investments: ",
+          "Your investments: ",
+          "Your assets: ",
+          "the list of your assets"
+        ]
+      },
+      {
+        "tag": "transactions",
+        "responses": [
+          "Your transaction history: ",
+          "Your transaction can be accessed by this link: ",
+          "Your transaction is: "
+        ]
+      },
+      {
+        "tag": "profitloss",
+        "responses": [
+          "Your net profit is $X: ",
+          "Your gross profit is $X: ",
+          "Your taxable income is $X: ",
+          "Your total profit is $X: ",
+          "Your total income is $X: "
+        ]
+      }
+    
+    ]
+}
