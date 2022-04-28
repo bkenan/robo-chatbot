@@ -5,7 +5,7 @@ const msgerChat = get(".msger-chat");
 
 const BOT_IMG = "https://cdn.leadpilot.io/5e8e2454609ef100083c6e51/ROBO.jfif";
 const PERSON_IMG = "https://image.pngaaa.com/468/81468-middle.png";
-const BOT_NAME = "ChatBot";
+const BOT_NAME = "KB";
 const PERSON_NAME = "You";
 
 msgerForm.addEventListener("submit", event => {
